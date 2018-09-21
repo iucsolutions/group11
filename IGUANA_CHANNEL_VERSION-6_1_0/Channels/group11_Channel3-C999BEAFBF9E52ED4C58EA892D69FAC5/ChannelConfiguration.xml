@@ -6,7 +6,7 @@
    logging_level="2"
    use_message_filter="true">
    <to_file
-      output_dir="${destDirGROUPNAME}/"
+      output_dir="${destDirgroup11}/"
       write_to_separate_file="true"
       output_single_filename=""
       use_prepended_info_as_filename="false"
@@ -39,7 +39,7 @@
       error_handling="0"
       use_translator_filter="true"
       translator_guid="group11_Channel3-Filter-jmIGLSjs2YGbH6"
-      translator_commit_id="14a10967233ae2b5ae43ef0d057b786cc70c351c"
-      translator_commit_comment="Import Translators: 11">
+      translator_commit_id="92b31d1726f189894199ec21f03a351856dcabf9"
+      translator_commit_comment="Import Translators: imp 11">
    </message_filter>
 </channel>
